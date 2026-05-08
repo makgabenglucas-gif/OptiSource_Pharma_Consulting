@@ -5,7 +5,6 @@ col1, col2, col3 = st.columns([1,2,1])
 with col2:
     st.image("logo.png.png", width=300)
 
-st.title("PharmaChain Tracker")# app.py
 
 # =============================================================================
 # DEPENDENCIES & SETUP
